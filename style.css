@@ -1,0 +1,288 @@
+header {
+    height: 145px;
+    width: 1440px;
+    top: 2px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block;
+    padding: 25px;
+}
+ section{
+    background-color: wheat; 
+ }
+.li1{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+
+.li2{
+    color: darkblue;
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+.li3{
+    color: darkblue;
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+.li1:hover{
+    color: red;
+}
+
+.li2:hover{
+    color: red;
+}
+
+.li3:hover{
+    color: red;
+}
+
+h1{
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+    font-family: 'Inter' , sans-serif;
+    font-weight: 900;
+}
+.workwithus{
+    margin-top: 10px;
+    width: 75px;
+    margin-left: 50px;
+}
+
+.worktext{
+    width: 300px;
+    margin-left: 10px;
+    font-family: 'Inter' , sans-serif;
+}
+.btn{
+    background-color: cornsilk;
+    color: black;
+    width: 200px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+.h_1{
+    margin-left: 10px;
+}
+.horarios_img{
+   width: 75px;
+   margin-left: 10px;
+}
+
+.p_1{
+    width: 150px;
+    font-family:'Inter' , sans-serif;
+}
+
+.llamber_logo{
+
+    margin-top: 50px;
+}
+
+a href{
+    font-family: 'Inter' , sans-serif;
+}
+
+.p_2{
+    width: 300px;
+}
+
+.section_img{ 
+    margin-left: 350px;
+    margin-top: -800px;
+    width: 800px
+}
+.section_1{
+    background-color: wheat;
+    height: 2000px;
+}
+
+.menus{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 550px;
+}
+
+.pulpo{
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.pulpo_text{
+    font-family: 'Inter', sans-serif;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.tuetano{
+    width: 250px;
+    margin-bottom: 700px;
+    margin-left: 400px;  
+    margin-top: -300px;
+}
+
+.tuetano_text{
+    font-family: 'Inter', sans-serif;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: -600px;
+}
+
+.bomba{
+    width: 250px;
+    margin-left: 900px;
+    margin-top: -600px;
+    margin-bottom: 50px;
+}
+
+.bomba_text{
+    margin-left: 900px;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.jamon{
+    width: 250px;
+    margin-left: 30px;
+}
+
+.jamon_text{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+}
+
+.quesos{
+    width: 250px;
+    margin-left: 450px;
+    margin-top: -200px;
+}
+
+.quesos_text{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin-left: 450px;
+}
+
+.ostras{
+    width: 250px;
+    margin-left: 900px;
+    margin-top: -600px;
+}
+
+.ostras_text{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    margin-left: 900px;
+}
+
+.joselito{
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 300px;
+    margin-left: 30px;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.amelie{
+    border-radius: 50%;
+    width: 100px;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.wagyu{
+    border-radius: 50%;
+    width: 100px;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.vega{
+    border-radius: 50%;
+    width: 100px;
+    align-items: center;
+}
+
+.llamber{
+    margin-left: 20px;
+}
+.estrelladamm{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.vermut{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.josper{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.section_2{
+    background-color: wheat;
+    height: 1000px;
+}
+
+.input{
+    background-color: skyblue;
+    margin-top: 150px;
+    margin-left: 100px;
+    height: 100px;
+    width: 300px;
+}
+
+.input1{
+    background-color: skyblue;
+    width: 300px;
+    height: 100px;
+}
+
+.input2{
+    background-color: skyblue;
+    width: 300px;
+    height: 100px;
+}
+
+.btn1{
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.phone_text{
+    margin-left: 200px;
+    color: green;
+    font-size: 40px;
+}
+
+.phone_number{
+    margin-top: 50px ;
+    margin-left: 200px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+
+.maps{
+    margin-left: 200px;
+}
